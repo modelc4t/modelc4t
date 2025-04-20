@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi, I'm Adam </h1>
-<p align="center">Creative Technologist | 3D & Motion Designer | Aspiring Game Dev in Japan</p>
+<p align="center">Creative Technologist | 3D & Motion Designer | want to be in Japan</p>
 
 ---
 
