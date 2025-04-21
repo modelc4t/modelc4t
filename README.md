@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-- Self-taught designer & animator blending **art + tech** (CreaTech style)
+- Self-taught and educated designer & animator blending **art + tech** (CreaTech style)
 - Currently building websites, 3D scenes, and mock-up games using **Blender**, **Unreal Engine**, and **HTML/CSS**
 - On a mission to move to Japan and join a creative dev team
 - Into futuristic UI, game design, and building stylish, functional digital experiences
