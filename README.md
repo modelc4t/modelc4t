@@ -24,9 +24,9 @@
 ---
 
 ### Projects
-Check out some of my creative dev work:
+Check out some of my creative dev projects:
 - **[Portfolio Site]**
-- **[Coming Soon...]**
+- **[Family Mart Game]**
 
 ---
 
